@@ -1,26 +1,18 @@
-# Todo-MVP
+# Todo Application MVP
 
 ## Overview
 
-Todo-MVP is a project that showcases how to build web applications using HTML, CSS, and minimal server-side code. The project revolves around a Todo Minimum Viable Product (MVP) - a basic yet valuable application for task management.
+This project aims to demonstrate the simplicity of building web applications using HTML, CSS, and minimal server-side code. It emphasizes using familiar technologies like HTML and CSS over complex frameworks, advocating for a server-side implementation of a todo application.
 
 ## Key Components
 
-The project includes multiple Todo applications in various programming languages, all serving the same HTML and implementing a consistent API. The goal is to demonstrate that complex functionalities of JavaScript frameworks can be achieved using HTML, CSS, and simple server-side code without the need for JavaScript, frameworks, or persistence mechanisms.
+The project sets constraints such as no JavaScript, frameworks, persistence, or sessions, while focusing on a consistent API, accessible HTML5, and plain CSS3. The goal is to create multiple Todo applications in different languages following the same principles and acceptance test.
 
 ## Philosophy
 
-Todo-MVP promotes a back-to-basics approach, advocating for the use of fundamental web technologies like HTML5 and CSS3 instead of relying on heavy frameworks. It encourages developers to focus on writing clean, accessible HTML, using plain CSS for styling, and adhering to a standardized API across different language implementations.
-
-## Constraints
-
-The project sets constraints such as avoiding JavaScript, frameworks, persistence mechanisms, user sessions, and emphasizing identical HTML output and plain CSS styles across all implementations. 
-
-## Testing
-
-An acceptance test verifies the correctness of the HTML and API, ensuring consistency among different versions of the application.
+This project showcases a minimalist approach to web development. It encourages developers to leverage core web technologies and focus on writing clean, accessible HTML, using plain CSS for styling, and adhering to a standardized API across different language implementations.
 
 ## Conclusion
 
-Overall, Todo-MVP aims to simplify the process of building web applications by leveraging core web technologies effectively and promoting a minimalist approach to web development.
+By focusing on the essentials and avoiding unnecessary complexities, this project aims to simplify the process of building web applications and inspire developers to create more accessible and user-friendly applications.
 
