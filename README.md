@@ -10,8 +10,8 @@ This to-do list application is designed to help you stay organized and manage yo
 
 ## Installation
 To set up the to-do list application:
-1. Clone the repository: `https://github.com/Gilt457/todo-mvp`
-2. Navigate to the project directory: `cd todo-mvp`
+1. Clone the repository: `https://github.com/Gilt457/todo-app`
+2. Navigate to the project directory: `cd todo-app`
 3. Install dependencies: `npm install`
 
 ## Usage
